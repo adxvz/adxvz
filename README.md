@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋🏾 Hi there, I'm Adam... 
+
+They say _"it's not the destination, but the journey"_ <br><br>
+
+As such, after a decade and a half in operational support roles, I decided to take the _scenic route_ to DevOps.<br>
+You can track the progress of my journey through [left brain](google.com).
+
+Alternatively, you can join me on any of my mini detours/sidequests that I find myself on along the way.
+
 
 <!--
 **adxvz/adxvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
