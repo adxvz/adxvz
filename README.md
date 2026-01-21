@@ -6,7 +6,7 @@
 
 I'm Adam. 
 
-
+<!--
 ### BTW Stack
 
 [![Skills](https://skillicons.dev/icons?i=linux,apple,nix,neovim,emacs&theme=light)](https://skillicons.dev)
@@ -26,3 +26,4 @@ I'm Adam.
 
 > [!IMPORTANT]  
 > <a href="" download>View my CV</a>
+-->
